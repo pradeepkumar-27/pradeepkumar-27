@@ -2,6 +2,7 @@
 #### Technology Enthusiast
 ![Technology Enthusiast](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
+###About Me
 I'm Pradeep Kumar currently pursuing my final year B.Tech Information Technology at Bannari Amman Institute of Technology. I'm a technology enthusiast and I try to keep myself updated with the technologies used in the Industries. My areas of interest are Cloud Computing, DevOps, Machine Learning and Artificial Intelligence, MLOps, BigData, etc.
 
 - 🔰 I’m currently working on a project titled "Model as a Service using DevOps" 
