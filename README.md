@@ -10,7 +10,7 @@ I'm Pradeep Kumar currently pursuing my final year B.Tech Information Technology
 
 ---------------------------------
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pradeepkumar-27)  [<img src='http://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X' alt='linkedin' height='40'>](https://www.linkedin.com/in/pradeep-kumar-a68a9418b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pradeepkumar.27/)  
+[<img src='https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg' alt='github' height='40'>](https://github.com/pradeepkumar-27)  [<img src='https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pradeep-kumar-a68a9418b/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg' alt='instagram' height='40'>](https://www.instagram.com/pradeepkumar.27/)  
 
 
 <h3 align="left">Languages and Tools:</h3>
