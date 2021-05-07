@@ -1,16 +1,18 @@
 ## Hi there, I'm Pradeep Kumar
 ##### Technology Enthusiast
-![Technology Enthusiast](https://github.com/pradeepkumar-27/pradeepkumar-27/blob/main/coding.gif)
+![Technology Enthusiast](https://github.com/pradeepkumar-27/pradeepkumar-27/blob/main/Coder.gif)
 
 ### About Me
 I'm Pradeep Kumar currently pursuing my final year B.Tech Information Technology at Bannari Amman Institute of Technology. I'm a technology enthusiast and I try to keep myself updated with the technologies used in the Industries. My areas of interest are Cloud Computing, DevOps, Machine Learning and Artificial Intelligence, MLOps, BigData, etc.
 
-- 🔰 I’m currently working on a project titled "Model as a Service using DevOps" 
-- 🔰 I’m currently learning 10+ technologies at [<b>ARTH THE SCHOOL OF TECHNOLOGIES</b>](https://rightarth.com/) under the mentorship of [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/) sir
 
 ---------------------------------
 
+### Connect Me
+
 [<img src='http://pngimg.com/uploads/github/github_PNG40.png' alt='github' height='40'>](https://github.com/pradeepkumar-27)  [<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pradeep-kumar-a68a9418b/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg' alt='instagram' height='40'>](https://www.instagram.com/pradeepkumar.27/)  
+
+----------------------------------
 
 
 <h3 align="left">Languages and Tools:</h3>
