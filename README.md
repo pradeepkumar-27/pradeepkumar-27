@@ -1,6 +1,6 @@
 ## Hi there, I'm Pradeep Kumar
 ##### Technology Enthusiast
-![Technology Enthusiast](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+![Technology Enthusiast](https://github.com/pradeepkumar-27/pradeepkumar-27/blob/main/coding.gif)
 
 ### About Me
 I'm Pradeep Kumar currently pursuing my final year B.Tech Information Technology at Bannari Amman Institute of Technology. I'm a technology enthusiast and I try to keep myself updated with the technologies used in the Industries. My areas of interest are Cloud Computing, DevOps, Machine Learning and Artificial Intelligence, MLOps, BigData, etc.
