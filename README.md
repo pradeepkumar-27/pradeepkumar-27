@@ -1,4 +1,4 @@
-## Hi there, I'm Pradeep Kumar
+## Hey there, I'm Pradeep Kumar
 ##### Technology Enthusiast
 ![Technology Enthusiast](https://github.com/pradeepkumar-27/pradeepkumar-27/blob/main/Coder.gif)
 
